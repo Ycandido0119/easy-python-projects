@@ -1,0 +1,119 @@
+{
+  "easy": [
+    {
+      "question": "What is the capital of Italy?",
+      "answers": [
+        "Rome"
+      ]
+    },
+    {
+      "question": "What is the colour scheme of the Kenyan Flag?",
+      "answers": [
+        "Black, Red, Green and White",
+        "black red green white"
+      ]
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "answers": [
+        "Blue Whale",
+        "Blue whale"
+      ]
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "answers": [
+        "2",
+        "two"
+      ]
+    },
+    {
+      "question": "What planet is known as the Red Planet?",
+      "answers": [
+        "Mars",
+        "mars"
+      ]
+    }
+  ],
+  "medium": [
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answers": [
+        "Diamond",
+        "diamond"
+      ]
+    },
+    {
+      "question": "Which mountain in Kenya is also the highest point in Africa?",
+      "answers": [
+        "Mount Kenya",
+        "Mount kenya",
+        "mount kenya"
+      ]
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "answers": [
+        "Sahara Desert",
+        "Sahara"
+      ]
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "answers": [
+        "Nile River",
+        "Nile"
+      ]
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answers": [
+        "Pacific Ocean",
+        "Pacific"
+      ]
+    },
+    {
+      "question": "What is Kenya's most popular staple food?",
+      "answers": [
+        "Ugali",
+        "ugali"
+      ]
+    }
+  ],
+  "hard": [
+    {
+      "question": "What is the smallest country in the world?",
+      "answers": [
+        "Vatican City",
+        "Vatican"
+      ]
+    },
+    {
+      "question": "What is the rarest blood type in the world?",
+      "answers": [
+        "AB Negative",
+        "AB-"
+      ]
+    },
+    {
+      "question": "What is the most spoken language in the world?",
+      "answers": [
+        "Mandarin Chinese",
+        "Mandarin"
+      ]
+    },
+    {
+      "question": "What is the largest island in the world?",
+      "answers": [
+        "Greenland"
+      ]
+    },
+    {
+      "question": "What is the deepest point in the world's oceans?",
+      "answers": [
+        "Mariana Trench",
+        "Mariana Trench"
+      ]
+    }
+  ]
+}
